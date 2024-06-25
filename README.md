@@ -1,2 +1,5 @@
 # DT_Journey
-For Work, the command and code 
+
+To document CMD and code stuff;
+
+Python is cute
